@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahriar Kabir Akash</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
-<img width="400" align="right" src="![image](https://github.com/MdShahriarKabirAkash/MdShahriarKabirAkash/assets/123525138/1f1a52c8-0a84-404d-95d3-e59c13b26be1)">
+<img width="400" align="right" src="[![image](https://github.com/MdShahriarKabirAkash/MdShahriarKabirAkash/assets/123525138/1f1a52c8-0a84-404d-95d3-e59c13b26be1)](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshahriarkabirakash&label=Profile%20views&color=0e75b6&style=flat" alt="mdshahriarkabirakash" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshahriarkabirakash" alt="mdshahriarkabirakash" /></a> </p>
