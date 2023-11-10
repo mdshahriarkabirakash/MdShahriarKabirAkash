@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshahriarkabirakash&label=Profile%20views&color=0e75b6&style=flat" alt="mdshahriarkabirakash" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshahriarkabirakash" alt="mdshahriarkabirakash" /></a> </p>
 <img width="400" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <a href="https://twitter.com/mdshahriarakash" target="blank"><img src="https://img.shields.io/twitter/follow/mdshahriarakash?logo=twitter&style=for-the-badge" alt="mdshahriarakash" /></a> </p>
 
